@@ -55,10 +55,10 @@ class Pomodoro:
         notification.notify(
             title="Cute Pomodoro",
             message="THE TIME IS OVER!",
-            app_icon="icon.ico"
+            app_icon="utilities/icon.ico"
         )
 
-        playsound("song.mp3")
+        playsound("utilities/song.mp3")
 
     def threaded_countdown(self):
         countdown_thread = threading.Thread(target=self.countdown())
