@@ -1,5 +1,5 @@
 # cutepomodoro
-Simple pomodoro using tkinter 
+Simple pomodoro app using tkinter 
 
 The Pomodoro Techinique 
 This popular time management method asks you to alternate pomodoros — focused work sessions — with frequent short breaks to promote sustained concentration and stave off mental fatigue.
